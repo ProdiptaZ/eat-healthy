@@ -47,3 +47,14 @@ p {
 .half-width img {
     width: 100%;
 }
+
+.second section img {
+    width: 60%;
+}
+
+
+.about-me {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
