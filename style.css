@@ -9,9 +9,23 @@ h1 {
 
 }
 
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+}
+
 p {
     text-align: justify;
     font-size: 20px;
+}
+
+#special {
+    text-align: center;
+
 }
 
 .darkgray-color {
@@ -48,13 +62,19 @@ p {
     width: 100%;
 }
 
-.second section img {
-    width: 60%;
-}
-
-
 .about-me {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+.model-project {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 40px;
+    box-shadow: 10px 10px 40px gray;
 }
